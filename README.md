@@ -1,12 +1,9 @@
 
 ### Hi there 👋, my name is Abhiruchi Sarswat
-#### I am a frontend Developer
-passionate about creating intuitive and visually appealing responsive user interfaces. I am excited to continue exploring the frontiers of web development and machine learning and to contribute to the development of innovative solutions that solve real-world problems.
+#### I am a frontend Developer passionate about creating intuitive and visually appealing responsive user interfaces. I am excited to continue exploring the frontiers of web development and machine learning and to contribute to the development of innovative solutions that solve real-world problems.
 
 
-Skills:   REACT / JS / HTML / CSS/ ML
-
-- 🔭 I’m currently working on this page. 
+Skills:   REACT / JS / HTML / CSS/PYTHON /DATA SCIENCE / MACHINE LEARNING / NLP.
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/abhi03ruchi)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/abhiruchi-sarswat-00b913227/)  
