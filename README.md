@@ -19,5 +19,5 @@
 
 ![Profile views](https://gpvc.arturio.dev/abhi03ruchi)  
 
-- ✉️ How to reach me **abhiruchis03@gmail.com**
+- ✉️ How to reach me **abhiruchi090btcsai21@igdtuw.ac.in**
 
