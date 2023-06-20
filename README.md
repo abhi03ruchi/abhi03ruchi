@@ -2,7 +2,6 @@
  a 2nd year undergraduate student at Indira Gandhi Delhi Technical University For Women. I am a web Developer👩‍💻 passionate about creating intuitive and visually 😇 appealing responsive user interfaces. I am eager to apply my skills to  projects, continuously seeking opportunities🚀 to enhance📈 and expand my skill set.
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p> 
-
 - 🔭 I’m currently working on **machine learning based web app.**
   
 - 🌱 I’m currently learning **backend development**
