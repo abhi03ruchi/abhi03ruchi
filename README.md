@@ -1,11 +1,16 @@
 ### Hi there 👋, I am  Abhiruchi Sarswat
  a final year undergraduate student at Indira Gandhi Delhi Technical University For Women. I am a web Developer👩‍💻 passionate about creating intuitive and visually 😇 appealing responsive user interfaces. I am eager to apply my skills to  projects, continuously seeking opportunities🚀 to enhance📈 and expand my skill set.
- 
+
 - 🔭 I’m currently working on **machine learning based web app.**
   
 - 🌱 I’m currently learning **backend development**
 
 - 👯 I’m looking to collaborate on **projects**
+
+
+  ## Open Source Participation
+- Gssoc'23 ( Open Source Contributor: Rank-100 )
+- Gssoc Ext '24 ( Mentor - SwapReads ) 
 
 ## 🌐 Connect With Me :
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/abhiruchi-sarswat-00b913227) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/abhi_ruchi) 
