@@ -10,7 +10,7 @@
 
   ## Open Source Participation
 - Gssoc'23 ( Open Source Contributor: Rank-100 )
-- Gssoc Ext '24 ( Mentor - SwapReads ) 
+- Gssoc Ext '24 ( Mentor - Project SwapReads : Rank 7 ) 
 
 ## 🌐 Connect With Me :
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/abhiruchi-sarswat-00b913227) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/abhi_ruchi) 
