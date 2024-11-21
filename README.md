@@ -1,9 +1,7 @@
 ### Hi there 👋, I am  Abhiruchi Sarswat
- a final year undergraduate student at Indira Gandhi Delhi Technical University For Women. I am a web Developer👩‍💻 passionate about creating intuitive and visually 😇 appealing responsive user interfaces. I am eager to apply my skills to  projects, continuously seeking opportunities🚀 to enhance📈 and expand my skill set.
-
-- 🔭 I’m currently working on **machine learning based web app.**
+ a final year undergraduate student at Indira Gandhi Delhi Technical University For Women. I am a Developer👩‍💻 passionate about creating intuitive and visually 😇 appealing responsive user interfaces. I am eager to apply my skills to  projects, continuously seeking opportunities🚀 to enhance📈 and expand my skill set.
   
-- 🌱 I’m currently learning **backend development**
+- 🌱 I’m currently learning **Game development in Unity**
 
 - 👯 I’m looking to collaborate on **projects**
 
